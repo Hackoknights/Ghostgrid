@@ -1,0 +1,10 @@
+{
+  "name": "GhostGrid — Emergency Command",
+  "short_name": "GhostGrid",
+  "description": "Offline emergency mesh command dashboard.",
+  "start_url": "./DocumentfromAbhirup_GhostGrid_AI_PWA.html",
+  "display": "standalone",
+  "background_color": "#0c1210",
+  "theme_color": "#0c1210",
+  "orientation": "any"
+}
